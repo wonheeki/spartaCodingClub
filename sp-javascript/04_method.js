@@ -116,6 +116,7 @@ const numbers2 = [40,100,1,5,25];
 numbers2.sort((a,b)=>{
     return a-b; // 오름차순 정렬
     // return b-a; // 내림차순 정렬
+    
 })
 
 console.log(numbers2);
